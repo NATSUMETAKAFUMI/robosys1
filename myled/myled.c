@@ -4,7 +4,7 @@
 #include<linux/device.h>
 #include<linux/uaccess.h>
 #include<linux/io.h>
-MODULE_AUTHOR("Natsume Takafumi");
+MODULE_AUTHOR("Natsume Takafumi","Ryuichi Ueda");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
