@@ -86,10 +86,10 @@ static int __init init_mod(void)
 	 gpio_base[index1] = (gpio_base[index1] & mask1) | (0x1 << shift1);
 
 	 const u32 led2 = 16;
-         const u32 index2 = led2 / 10;
-         const u32 shift2 = (led2 % 10)*3;
-         const u32 mask2 = ~(0x7 << shift2);
-         gpio_base[index2] = (gpio_base[index2] & mask2) | (0x1 << shift2);
+	 const u32 index2 = led2 / 10;
+	 const u32 shift2 = (led2 % 10)*3;
+	 const u32 mask2 = ~(0x7 << shift2);
+	 gpio_base[index2] = (gpio_base[index2] & mask2) | (0x1 << shift2);
 
 	 return 0;
 }
