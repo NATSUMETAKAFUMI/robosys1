@@ -17,7 +17,7 @@
 ## 回路
 以下のように回路を組みました。
 
-< img src = https://github.com/NATSUMETAKAFUMI/robosys/blob/main/IMG_0203[1].JPG width = 500px />
+< img src=https://github.com/NATSUMETAKAFUMI/robosys/blob/main/IMG_0203[1].JPGwidth=500px/>
 
 ---
 
@@ -40,6 +40,7 @@ $ echo 0 > /dev/myled0
 $ echo 1 > /dev/myled0
 
 赤色LEDが点灯して青色LEDは消灯します。
+
 ---
 ## 実行動画
 
