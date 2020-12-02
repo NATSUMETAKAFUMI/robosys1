@@ -32,12 +32,12 @@ LEDはそれぞれのアノードがGPIO25,GPIO16に接続しています。GND�
 * $ sudo chmod 666 /dev/myled0  
 
 ## 実行した場合
-0を入力した場合
+* 0を入力した場合
 $ echo 0 > /dev/myled0  
 
  青色LEDが点灯して赤色LEDは消灯します。
 
-１を入力した場合
+* １を入力した場合
 $ echo 1 > /dev/myled0
 
 赤色LEDが点灯して青色LEDは消灯します。
@@ -45,7 +45,9 @@ $ echo 1 > /dev/myled0
 ---
 ## 実行動画
 
-https://youtu.be/cwWkn6vTT5g
+動画URL:https://youtu.be/cwWkn6vTT5g
 
 youtubeにあげた実行動画はこちらになります。
 
+## ライセンス
+[MIT License](https://github.com/NATSUMETAKAFUMI/robosys/blob/main/LICENSE)
