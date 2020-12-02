@@ -18,6 +18,7 @@
 以下のように回路を組みました。
 
 <img src=https://github.com/NATSUMETAKAFUMI/robosys/blob/main/IMG_0203%5B1%5D.JPG width=500px/>
+LEDはそれぞれのアノードがGPIO25,GPIO16に接続しています。GNDはどこでも構いません。
 
 ---
 
