@@ -33,12 +33,14 @@ LEDはそれぞれのアノードがGPIO25,GPIO16に接続しています。GND�
 
 ## 実行した場合
 * 0を入力した場合
-$ echo 0 > /dev/myled0  
+
+　$ echo 0 > /dev/myled0  
 
  青色LEDが点灯して赤色LEDは消灯します。
 
-* １を入力した場合
-$ echo 1 > /dev/myled0
+* 1を入力した場合
+
+　$ echo 1 > /dev/myled0
 
 赤色LEDが点灯して青色LEDは消灯します。
 
