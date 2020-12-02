@@ -17,7 +17,7 @@
 ## 回路
 以下のように回路を組みました。
 
-IMG_0203[1].JPG
+< img src = https://github.com/NATSUMETAKAFUMI/robosys.git/IMG_0203[1].JPG width = 500px />
 
 ---
 
