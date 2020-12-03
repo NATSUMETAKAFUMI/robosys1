@@ -52,4 +52,4 @@ LEDはそれぞれのアノードがGPIO25,GPIO16に接続しています。GND�
 youtubeにあげた実行動画はこちらになります。
 
 ## ライセンス
-[MIT License](https://github.com/NATSUMETAKAFUMI/robosys/blob/main/LICENSE)
+[GNU General Public License v3.0](https://github.com/NATSUMETAKAFUMI/robosys/blob/main/COPYING)
