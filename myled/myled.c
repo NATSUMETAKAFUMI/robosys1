@@ -1,9 +1,9 @@
 #include <linux/module.h>
-#include<linux/fs.h>
-#include<linux/cdev.h>
-#include<linux/device.h>
-#include<linux/uaccess.h>
-#include<linux/io.h>
+#include <linux/fs.h>
+#include <linux/cdev.h>
+#include <linux/device.h>
+#include <linux/uaccess.h>
+#include <linux/io.h>
 
 MODULE_AUTHOR("Natsume Takafumi, Ryuichi Ueda");
 MODULE_DESCRIPTION("driver for LED control");
