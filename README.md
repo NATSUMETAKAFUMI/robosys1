@@ -17,7 +17,7 @@
 ## 回路
 以下のように回路を組みました。
 
-<img src=https://github.com/NATSUMETAKAFUMI/robosys/blob/main/IMG_0203%5B1%5D.JPG width=500px/>
+<img src=https://github.com/NATSUMETAKAFUMI/robosys1/blob/main/IMG_0203%5B1%5D.JPG width=500px/>
 LEDはそれぞれのアノードがGPIO25,GPIO16に接続しています。GNDはどこでも構いません。
 
 ---
@@ -25,7 +25,7 @@ LEDはそれぞれのアノードがGPIO25,GPIO16に接続しています。GND�
 ## ビルド
 実行する場合、以下のように行ってください。
 
-* $ git clone https://github.com/NATSUMETAKAFUMI/robosys.git  
+* $ git clone https://github.com/NATSUMETAKAFUMI/robosys1.git  
 * $ cd robosys/myled  
 * $ make  
 * $ sudo insmod myled.ko  
@@ -52,4 +52,4 @@ LEDはそれぞれのアノードがGPIO25,GPIO16に接続しています。GND�
 youtubeにあげた実行動画はこちらになります。
 
 ## ライセンス
-[GNU General Public License v3.0](https://github.com/NATSUMETAKAFUMI/robosys/blob/main/COPYING)
+[GNU General Public License v3.0](https://github.com/NATSUMETAKAFUMI/robosys1/blob/main/COPYING)
